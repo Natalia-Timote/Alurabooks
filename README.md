@@ -12,14 +12,14 @@ Este projeto foi desenvolvido durante o curso da Alura:
 
 * "HTML e CSS: responsividade com mobile-first"
 
-O objetivo foi criar uma interface web adaptável a diversos tamanhos de tela, utilizando técnicas de media queries e seguindo uma estrutura semântica. O foco está na organização do conteúdo e na apresentação responsiva, priorizando dispositivos móveis e mantendo boa usabilidade em telas maiores.
+O objetivo foi criar uma interface web adaptável a diversos tamanhos de tela, utilizando técnicas de **media queries** e seguindo uma estrutura semântica. O foco está na organização do conteúdo e na apresentação responsiva, priorizando dispositivos móveis e mantendo boa usabilidade em telas maiores.
 
 ## 📚 Objetivos do Curso
 
 * Construir um site com HTML e CSS;
 * Entender como interpretar um protótipo de site criado no Figma;
-* Conhecer a abordagem mobile-first;
-* Aprender a utilizar media queries na construção de layouts responsivos;
+* Conhecer a abordagem **mobile-first**;
+* Aprender a utilizar **media queries** na construção de layouts responsivos;
 * Realizar o deploy de um site através do Github Pages;
 * Compartilhar o aprendizado nas redes sociais.
 
